@@ -27,7 +27,6 @@ A stunning, **messenger-style chatbot app** powered by **Gemini API** and built 
 -cd gemini-chat-login
 
 # 2. Install Required Packages
--bash
 -pip install eel
 -pip install google-generativeai
 
